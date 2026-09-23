@@ -5,23 +5,22 @@ A lightweight Windows utility for changing the top-row behavior of the **Logitec
 
 ## Usage
 
+Show the current Fn-key mode:
+
 ```cmd
 k780fn.exe status
 ```
-
-Show the current Fn-key mode.
+Switch on Fn Lock:
 
 ```cmd
 k780fn.exe fkeys
 ```
 
-Fn Lock on.
+Switch off Fn Lock (default mode):
 
 ```cmd
 k780fn.exe media
 ```
-
-Fn Lock off (default mode).
 
 ---
 
